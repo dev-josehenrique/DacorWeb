@@ -69,20 +69,20 @@ Confira o Software, clique no link [Dacorweb](https://blog.rocketseat.com.br/pri
         - Pagar Constas Vencidas;
         - Pagar Hoje;
         - Receber Vencidas.
- <br>
+ 
     - > MOVIMENTAÇÕES:
         - Ver as Movimentações;
-<br>
+
      - > COMPRAS / VENDAS:
         - Listar Vendas;     
         - Listar Compras.
-<br>   
+ 
     - > EM RELATÓRIOS:
         - Relatórios de Movimentações;
         - Relatórios de Contas á Pagar;
         - Relatórios de Contas á Receber;
         - Relatórios de Contas á Receber Vencidas;
-<br>
+
  - [x] PAINEL OPERADOR: 
  
      
