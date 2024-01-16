@@ -154,14 +154,14 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 > <br>
     Senha: 123
 
-💡Tanto o <b>Usuário</b> quanto a <b>Senha</b> Tem que ser exatamente iguais.
+💡Tanto o <b>Usuário</b> quanto a <b>Senha</b> Tem que serem exatamente iguais.
 
 
 
 <h2 id="-tecnologias">🛠 Tecnologias</h2>
 
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes Tecnologias foram usadas na construção do projeto:
 
 
 -   **[PHP](https://www.php.net/manual/pt_BR/index.php)**
