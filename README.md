@@ -61,7 +61,7 @@ Confira o Software, clique no link [Dacorweb](https://blog.rocketseat.com.br/pri
         <br>
 
  - [x] PAINEL FINANCEIRO: 
-<br>    
+   
      
     - > EM CONTAS (VER/CADASTRAR):
         - Contas á Pagar;
@@ -84,7 +84,7 @@ Confira o Software, clique no link [Dacorweb](https://blog.rocketseat.com.br/pri
         - Relatórios de Contas á Receber Vencidas;
 <br>
  - [x] PAINEL OPERADOR: 
-<br>    
+ 
      
     - > DENTRO DO PDV:
         - Passar Produtos;
