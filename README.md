@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Sistema Desenvolvido para o TCC 🚧
+	🚧  Software Gerernciador para Lojas/PDV (TCC) 🚧
 </h4>
 
 <p align="center">
@@ -109,11 +109,11 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-1.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-1.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-2.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-2.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-3.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-3.png" width="200px">
 
 </p>
 
@@ -121,11 +121,11 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-1.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-1.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-2.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-2.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-3.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-3.png" width="200px">
 
 </p>
 
