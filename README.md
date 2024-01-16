@@ -21,7 +21,7 @@
 <h2 id="-sobre-o-projeto">💻 Sobre o Projeto</h2>
 
 
-🌎 A Dacorweb, foi o Trabalho de Conclusão de Curso (TCC) apresentado em 2023 no IFC, tem como propósito a criação de um software abrangente para gerenciamento e controle de vendas, estoque, usuários e geração de relatórios. Vale ressaltar que o sistema é caracterizado por um layout simples e funcional, incorporando um painel de controle (dashboard) e gráficos para proporcionar uma experiência completa e intuitiva, além dos níveis separados por sessões para cada usuário.
+🌎 A Dacorweb,é Trabalho de Conclusão de Curso (TCC) apresentado em 2023 no IFC sendo avaliado com nota máxima (10), tem como propósito a criação de um software abrangente para 0 gerenciamento e controle de vendas, estoque, usuários e geração de relatórios. Vale ressaltar que o sistema é caracterizado por um layout simples e funcional, incorporando um painel de controle (dashboard) e gráficos para proporcionar uma experiência completa e intuitiva, além dos níveis separados por sessões para cada usuário.
 
 
 Confira o Software, clique no link [Dacorweb](#).
