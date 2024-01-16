@@ -124,9 +124,9 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 	
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-1.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-2.png" width="250px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-2.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-3.png" width="250px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-3.png" width="200px">
 
 </p>
 
