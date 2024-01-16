@@ -121,7 +121,7 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-1.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-1-semfundo.png" width="300px">
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-2.png" width="300px"> 
 
