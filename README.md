@@ -133,6 +133,7 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
  - [x] Este sistema possuí 3 níveis de hierarquia:
 >    ##### 1º ADMINISTRADOR 
 >    Usuário: Administardor
+> <br>
     Senha: 123
 
 >   ##### 2º FINANCEIRO 
