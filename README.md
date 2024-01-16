@@ -137,7 +137,7 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 
 
- - [x] Este sistema possuí 3 níveis de hierarquia:
+ - [x] Este sistema possuí 3 níveis de acesso:
 >    ##### 1º ADMINISTRADOR 
 >    Usuário: Administardor
 > <br>
