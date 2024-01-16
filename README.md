@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/img.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-inicial.png" />
 </h1>
 
 <h4 align="center"> 
