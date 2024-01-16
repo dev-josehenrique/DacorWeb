@@ -137,11 +137,14 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
     Senha: 123
 
 >   ##### 2º FINANCEIRO 
->    Usuário: Financeiro
+>    Usuário:
+>   Financeiro
+> <br>
     Senha: 123
 
 >    ##### 3º OPERADOR  
 >    Usuário: Operador
+> <br>
     Senha: 123
 
 💡Tanto o <b>Usuário</b> quanto a <b>Senha</b> Tem que serem exatamente iguais.
