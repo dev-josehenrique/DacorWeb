@@ -12,7 +12,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-principais-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Usuários Teste</a> • 
+ <a href="#-usuarios">Usuários Teste</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
 
@@ -24,11 +24,11 @@
 🌎 A Dacorweb, foi o Trabalho de Conclusão de Curso (TCC) apresentado em 2023 no IFC, tem como propósito a criação de um software abrangente para gerenciamento e controle de vendas, estoque, usuários e geração de relatórios. Vale ressaltar que o sistema é caracterizado por um layout simples e funcional, incorporando um painel de controle (dashboard) e gráficos para proporcionar uma experiência completa e intuitiva, além dos níveis separados por sessões para cada usuário.
 
 
-Confira o Software, clique no link [Dacorweb](https://blog.rocketseat.com.br/primeira-next-level-week/).
+Confira o Software, clique no link [Dacorweb](#).
 
 ---
 
-## ⚙️ Principais Funcionalidades
+## ⚙️ Principais funcionalidades
 
 
  - [x] PAINEL ADMINISTRADOR: 
@@ -147,7 +147,7 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 > <br>
     Senha: 123
 
-💡Tanto o <b>Usuário</b> quanto a <b>Senha</b> Tem que serem exatamente iguais.
+💡Tanto o <b>Usuário</b> quanto a <b>Senha</b> Tem que ser exatamente iguais.
 
 
 
@@ -171,8 +171,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Foram essenciais para a realização deste  SoftWare.
 <table>
   <tr>
-    <td align="center"><a href="https://josehenrique.online"><img style="border-radius: 50%;" src="./img/eu-zeca.jpg" width="100px;" alt=""/><br /><sub><b>José Henrique</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">Programador</a></td>
-    <td align="center"><a href="#"><img style="border-radius: 50%;" src="./img/sem-foto.png" width="100px;" alt=""/><br /><sub><b>Minha Dupla</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">Design</a></td>    
+    <td align="center"><a href="https://josehenrique.online" target="_blank"><img style="border-radius: 50%;" src="./img/eu-zeca.jpg" width="100px;" alt=""/><br /><sub><b>José Henrique</b></sub></a><br /><a href="https://josehenrique.online" target="_blank" title="Rocketseat">Programador</a></td>
+    <td align="center"><a href="#"><img style="border-radius: 50%;" src="./img/sem-foto.png" width="100px;" alt=""/><br /><sub><b>Minha Dupla</b></sub></a><br /><a href="#" title="Rocketseat">Design</a></td>    
   </tr>
 
 </table>
