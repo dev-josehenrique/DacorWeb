@@ -32,7 +32,6 @@ Confira o Software, clique no link [Dacorweb](https://blog.rocketseat.com.br/pri
 
 
  - [x] PAINEL ADMINISTRADOR: 
-<br>
 
     - >CADASTRAR:
         - Funcionários;
