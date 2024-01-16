@@ -24,7 +24,7 @@
 🌎 A Dacorweb,é Trabalho de Conclusão de Curso (TCC) apresentado em 2023 no IFC sendo avaliado com nota máxima (10), tem como propósito a criação de um software abrangente para 0 gerenciamento e controle de vendas, estoque, usuários e geração de relatórios. Vale ressaltar que o sistema é caracterizado por um layout simples e funcional, incorporando um painel de controle (dashboard) e gráficos para proporcionar uma experiência completa e intuitiva, além dos níveis separados por sessões para cada usuário.
 
 
-Confira o Software, clique no link <a href="https://dacorweb.webysistem.com/" target="_blank">Dacorweb</a>
+Confira o Software, <a href="https://dacorweb.webysistem.com/" target="_blank">Dacorweb</a>
 
 
 ---
@@ -136,7 +136,7 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 <h2 id="-usuarios">🚀 Usuários</h2>
 
-### [TESTAR](https://dacorweb.webysistem.com/)
+<a href="https://dacorweb.webysistem.com/" target="_blank"><b>TESTAR</b></a>
 
  - [x] Este sistema possuí 3 níveis de acesso:
 >    ##### 1º ADMINISTRADOR 
