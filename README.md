@@ -18,8 +18,8 @@
 
 </p>
 
+<h2 id="-sobre-o-projeto">💻 Sobre o Projeto</h2>
 
-## 💻 Sobre o projeto
 
 🌎 A Dacorweb, foi o Trabalho de Conclusão de Curso (TCC) apresentado em 2023 no IFC, tem como propósito a criação de um software abrangente para gerenciamento e controle de vendas, estoque, usuários e geração de relatórios. Vale ressaltar que o sistema é caracterizado por um layout simples e funcional, incorporando um painel de controle (dashboard) e gráficos para proporcionar uma experiência completa e intuitiva, além dos níveis separados por sessões para cada usuário.
 
@@ -28,7 +28,8 @@ Confira o Software, clique no link [Dacorweb](#).
 
 ---
 
-## ⚙️ Principais funcionalidades
+<h2 id="-principais-funcionalidades">⚙️ Principais Funcionalidades</h2>
+
 
 
  - [x] PAINEL ADMINISTRADOR: 
@@ -97,13 +98,15 @@ Confira o Software, clique no link [Dacorweb](#).
     
 ---
 
-## 🎨 Layout
+<h2 id="-layout">🎨 Layout</h2>
+
 
 O layout do software busca ser claro, bonito e prático, além responsivo:
  -  <b>Obs:</b> Aqui é apenas uma ilustração, por isso não está 100% responsivo,
 
 
-### Mobile
+<h2 id="-mobile">Mobile</h2>
+
 
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-mobile-1.png" width="200px">
@@ -114,7 +117,8 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 </p>
 
-### Web
+<h2 id="-web">Web</h2>
+
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/tela-notebook-1.png" width="300px">
@@ -127,7 +131,9 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 ---
 
-## 🚀 Usuários
+
+<h2 id="-usuarios">🚀 Usuários</h2>
+
 
 
  - [x] Este sistema possuí 3 níveis de hierarquia:
@@ -151,7 +157,8 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
 
 
-## 🛠 Tecnologias
+<h2 id="-tecnologias">🛠 Tecnologias</h2>
+
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -166,7 +173,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 👨‍💻 Contribuidores
+<h2 id="-contribuidores">👨‍💻 Contribuidores</h2>
+
 
 Foram essenciais para a realização deste  SoftWare.
 <table>
