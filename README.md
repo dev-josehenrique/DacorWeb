@@ -187,6 +187,6 @@ Foram essenciais para a realização deste  SoftWare.
 </table>
 
 ---
- ## ⚠️ Lembrando que
+ ## ⚠️ Lembrando 
      O Código fonte está em um repositório privado 😁 
 ---
