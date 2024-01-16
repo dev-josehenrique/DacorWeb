@@ -181,7 +181,7 @@ Foram essenciais para a realização deste  SoftWare.
 <table>
   <tr>
     <td align="center"><a href="https://josehenrique.online" target="_blank"><img style="border-radius: 50%;" src="./img/eu-zeca.jpg" width="100px;" alt=""/><br /><sub><b>José Henrique</b></sub></a><br /><a href="https://josehenrique.online" target="_blank" title="Rocketseat">Programador</a></td>
-    <td align="center"><a href="#"><img style="border-radius: 50%;" src="./img/sem-foto.png" width="100px;" alt=""/><br /><sub><b>Minha Dupla</b></sub></a><br /><a href="#" title="Rocketseat">Design</a></td>    
+    <td align="center"><a href="#"><img style="border-radius: 50%;" src="./img/sem-foto.png" width="100px;" alt=""/><br /><sub><b>Minha Dupla</b></sub></a><br /><a href="#" title="Rocketseat">Escritas</a></td>    
   </tr>
 
 </table>
