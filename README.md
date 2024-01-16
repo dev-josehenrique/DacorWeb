@@ -8,13 +8,13 @@
 	🚧  Software Gerernciador para Lojas/PDV (TCC) 🚧
 </h4>
 
-<p align="center">
+<p align="center"> •
  <a href="#-sobre-o-projeto">Sobre</a> •
 <a href="#-principais-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-usuarios">Usuários Teste</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
+ <a href="#-contribuidores">Contribuidores</a> 
 
 </p>
 
