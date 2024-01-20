@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Software Gerernciador para Lojas/PDV (TCC) 🚧
+	🚧  SOFTWARE GERENCIADOR PARA LOJAS/PDV (TCC) 🚧
 </h4>
 
 <p align="center"> •
