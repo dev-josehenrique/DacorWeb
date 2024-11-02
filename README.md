@@ -144,7 +144,7 @@ Este sistema possui três níveis de acesso, cada um com permissões distintas, 
 ---
 
 #### 1. Administrador
-- **Usuário**: administrador  
+- **Usuário**: admin  
 - **Senha**: 123  
 
 ---
