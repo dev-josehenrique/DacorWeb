@@ -140,18 +140,23 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 
  - [x] Este sistema possuí 3 níveis de acesso:
 >    ##### 1º ADMINISTRADOR 
->    Usuário: Administardor
+>    Usuário: administardor
 > <br>
     Senha: 123
 
 >   ##### 2º FINANCEIRO 
 >    Usuário:
->   Financeiro
+>   financeiro
 > <br>
     Senha: 123
 
 >    ##### 3º OPERADOR  
->    Usuário: Operador
+>    Usuário: operador
+> <br>
+    Senha: 123
+>
+> ##### E TEM O USUÁRIO DESATIVADO 
+> Usuário: desativo
 > <br>
     Senha: 123
 
