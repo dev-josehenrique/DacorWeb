@@ -137,28 +137,33 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 <h2 id="-usuarios">🚀 Usuários</h2>
 
 <a href="https://dacorweb.devjosehenrique.com.br" target="_blank"><b>TESTAR</b></a>
+### Sistema de Acesso com Níveis Hierárquicos
 
- - [x] Este sistema possuí 3 níveis de acesso:
->    ##### 1º ADMINISTRADOR 
-- Usuário: administardor
-> <br>
-- Senha: 123
+Este sistema possui três níveis de acesso, cada um com permissões distintas, além de um usuário desativado. Abaixo estão os detalhes para cada nível:
 
->   ##### 2º FINANCEIRO 
-- Usuário:
-- financeiro
-> <br>
-- Senha: 123
+---
 
->    ##### 3º OPERADOR  
-  - Usuário: operador
-> <br>
-- Senha: 123
+#### 1. Administrador
+- **Usuário**: administrador  
+- **Senha**: 123  
 
-> ##### E TEM O USUÁRIO DESATIVADO
-- Usuário: desativo
-> <br>
-- Senha: 123
+---
+
+#### 2. Financeiro
+- **Usuário**: financeiro  
+- **Senha**: 123  
+
+---
+
+#### 3. Operador
+- **Usuário**: operador  
+- **Senha**: 123  
+
+---
+
+#### Usuário Desativado
+- **Usuário**: desativado  
+- **Senha**: 123  
 
 💡Tanto o <b>Usuário</b> quanto a <b>Senha</b> Tem que serem exatamente iguais.
 
