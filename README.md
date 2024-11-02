@@ -154,7 +154,7 @@ O layout do software busca ser claro, bonito e prático, além responsivo:
 >    Usuário: operador
 > <br>
     Senha: 123
->
+
 > ##### E TEM O USUÁRIO DESATIVADO 
 > Usuário: desativo
 > <br>
